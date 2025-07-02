@@ -97,7 +97,7 @@ npm run dev
 ✔️ Completado según todos los requisitos del reto técnico.
 Preparado para producción o extensión funcional real.
 
-🙌 Autora
+🙌 Autor
 
 Santiago Román Frontend Developer
 
